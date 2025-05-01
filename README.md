@@ -1,11 +1,15 @@
-# h&r.ai Overview
+# h&r.ai Demo
 
-This project is a demo of reality version mapping. It analyzes user-consumed news and content to provide insights into media biases and perspectives.
+A proof-of-concept project for "h&r.ai" focusing on reality version mapping and user news analysis.
 
-## How It Works
-1. Users provide text input (e.g., articles, headlines).
-2. The system analyzes the content and maps it to a "reality version".
+## Features
+- Analyze user-consumed content and map it to reality versions.
+- Provide insights into consumed media biases.
 
-## Future Goals
-- Support for multiple content sources (e.g., RSS, APIs).
-- Advanced reality mapping algorithms.
+## Folder Structure
+- `src/`: Source code for the project.
+- `data/`: Sample datasets.
+- `docs/`: Documentation about the project.
+
+## License
+This project is licensed under the [CC0 License](LICENSE).
